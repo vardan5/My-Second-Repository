@@ -15,11 +15,11 @@ h1 {
 }
 
 img {
-  padding: 10px;
-  border-radius: 20px;
 
-  width: %;
+  border-radius: 20px;
+  width: 100%;
   height: auto;
+  padding: 10px;
 }
 
 p {
