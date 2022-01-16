@@ -1,4 +1,30 @@
+html {
+  background-image: linear-gradient(black, blue, black);
+  color: whitesmoke;
+  font-size: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  align-content: center;
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+}
+
 img {
-  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+
+  width: %;
   height: auto;
+}
+
+p {
+  background-color: rgba(255, 255, 255, 0.213);
+  border-radius: 5px;
+  padding: 4px;
+  border: 1px solid white;
 }
